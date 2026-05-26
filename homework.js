@@ -332,7 +332,6 @@ function aplicarIncrementoDesdeCero(intentos) {
     contador += 1;
   }
   return contador;
-
 }
 
 function enteroDesdeBinario(binarioStr) {
